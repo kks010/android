@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">CodeKampConnect</string>
+    <string name="app_name">CodeKamp</string>
+    <string name="search">search</string>
 </resources>
